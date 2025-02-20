@@ -2,6 +2,3 @@
 NG2 repository
 
 
-https://stream.doxx.fr/
-
-
